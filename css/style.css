@@ -186,9 +186,6 @@ blockquote {
 .translucent-bg blockquote footer {
 	color: #cccccc;
 }
-.footer {
-	background-color: #cccccc;
-}
 .default-bg a,
 .translucent-bg a {
 	color: #ffffff;
@@ -230,6 +227,7 @@ blockquote {
 	position: relative;
 }
 .bg-image-1 {
+	padding-bottom: 230px;
 	background: url("../images/main.jpg") 50% 0px no-repeat;
 }
 .bg-image-2 {
@@ -291,9 +289,6 @@ blockquote {
 }
 .banner-caption h1 {
 	font-size: 60px;
-}
-.subfooter p {
-	margin-bottom: 0;
 }
 
 /* Template Components
@@ -721,4 +716,7 @@ textarea {
 	filter: alpha(opacity=100);
 	-webkit-transform: scale(1);
 	transform: scale(1);
+}
+.footer {
+	padding-bottom: 45px; 
 }
