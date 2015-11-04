@@ -279,6 +279,12 @@ blockquote {
 .modal-git {
 	font-size: 50px;
 }
+.margin-top-me {
+	margin-top: 20px;
+}
+.font-size-bigger {
+	font-size: 50px;
+}
 
 /* Sections
 ----------------------------------------------------------------------------- */
