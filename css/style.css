@@ -532,6 +532,7 @@ textarea {
 	margin-top: 0;
 	margin-bottom: 0;
 	background:#FF2400;
+	border-radius: 100%;
 }
 @media (min-width:768px) {
 	.fixed-header-on .navbar-default .navbar-nav > li > a {
